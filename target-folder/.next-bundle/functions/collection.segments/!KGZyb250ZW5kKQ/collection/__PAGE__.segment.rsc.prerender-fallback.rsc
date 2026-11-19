@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1ve2fl8rb4wvu.js"
+3:I[28836,["$2"],"default"]
+4:I[9212,["$2"],"default"]
+9:"/_next/static/chunks/0jh8loogpy6ju.js"
+a:"/_next/static/chunks/1fd8qja1vxs__.js"
+b:I[44895,["$9","$a"],""]
+10:"/_next/static/chunks/1jhc56emun1k4.js"
+11:"/_next/static/chunks/0rj6gzzzb2ah7.js"
+12:I[95556,["$9","$a","$10","$11"],"default"]
+13:I[91542,["$2"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[91542,["$2"],"$17"]
+19:"MetadataBoundary"
+1a:I[91542,["$2"],"$19"]
+1b:I[74453,["$2"],"IconMark"]
+:HL["/_next/static/chunks/3jkvaj8f2a3_o.css","style"]
+:HL["/_next/static/chunks/36_lfsdtha_zr.css","style"]
+6:X
+6:C
+7:X
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L12",null,{"initialTab":"collection"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36_lfsdtha_zr.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1fd8qja1vxs__.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1jhc56emun1k4.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/0rj6gzzzb2ah7.js","async":true}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$7"}}]]
+d:[["children",{"s":"collection","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@e","v":"$6","s":"$7"},"c":"$Qf"}]]
+8:[["children",{"s":"(frontend)","h":112,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3jkvaj8f2a3_o.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0jh8loogpy6ju.js","async":true}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[null,null]}],["$","body",null,{"className":"min-h-screen bg-[#101015] text-[#eae6f0] antialiased","children":[null,false,["$","div",null,{"id":"root","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","main",null,{"className":"mx-auto flex min-h-[50vh] max-w-2xl flex-col items-center justify-center px-8 py-16 text-center","children":[["$","h1",null,{"className":"text-3xl font-semibold tracking-tight","children":"Page Not Found"}],["$","p",null,{"className":"mt-4 text-zinc-600","children":"The page you're looking for doesn't exist or has been moved."}],["$","$Lb",null,{"className":"mt-6 font-medium text-blue-600 underline-offset-4 hover:underline","href":"/","children":"← Back to Home"}]]}],[]]}]}],"",null]}]]}]]}],"p":"$@c","v":null,"s":"$7"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"VAULT — Collect something extraordinary"}],["$","meta","1",{"name":"description","content":"A little luck. A sharp eye. A collection that’s entirely yours."}],["$","meta","2",{"property":"og:title","content":"VAULT — Collect something extraordinary"}],["$","meta","3",{"property":"og:description","content":"A little luck. A sharp eye. A collection that’s entirely yours."}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"VAULT — Collect something extraordinary"}],["$","meta","6",{"name":"twitter:description","content":"A little luck. A sharp eye. A collection that’s entirely yours."}],["$","link","7",{"rel":"icon","href":"/favicon.svg"}],["$","$L1b","8",{}]]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$7"}},"a":"$@1d","u":"$@1e","b":"BXPQBIjVjelBAhlXcu-Z2"}
+15:null
+7:300
+1e:true
+7:C
+1d:0
+e:"$undefined"
+c:"$undefined"
+5:"$undefined"
+1c:"$undefined"
+16:"$undefined"

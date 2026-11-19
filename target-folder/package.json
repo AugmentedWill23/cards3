@@ -1,0 +1,8 @@
+{
+  "name": "vault-game-deploy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "22.x" },
+  "scripts": { "start": "node .next-bundle/server.mjs" }
+}
